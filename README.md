@@ -123,7 +123,7 @@
         <div class="reports-section">
             <h3>Available Reports</h3>
             
-            <a href="#" class="report-link">
+            <a href="./Soukieh 3T Framework.pdf" class="report-link">
                 <div class="report-title">Soukieh 3T Framework 2025</div>
                 <div class="report-description">
                     A systematic approach to navigating complex infrastructure and organisational challenges. 
