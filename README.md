@@ -119,10 +119,6 @@
     </style>
 </head>
 <body>
-    <div class="header">
-        <h1>Soukieh Consulting</h1>
-    </div>
-
     <div class="content">
         <div class="reports-section">
             <h3>Available Reports</h3>
@@ -135,13 +131,6 @@
                 </div>
             </a>
         </div>
-    </div>
-
-    <div class="contact-section">
-        <h3>Contact Information</h3>
-        <div class="contact-info">📧 sarah@soukieh.com.au</div>
-        <div class="contact-info">📞 0402 464 137</div>
-        <div class="contact-info">🌐 soukieh.com.au</div>
     </div>
 </body>
 </html>
